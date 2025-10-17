@@ -319,7 +319,7 @@ console.log('CSSProtector loaded:', typeof CSSProtector !== 'undefined');
 
 ## ⚙️ static web protection
 
-This project is also built with the same CSS obfuscation library
+This project is also built with the same **CSS obfuscation library**
 
 > [▶️ Test Site](https://web0x1.vercel.app/)
 
@@ -327,6 +327,6 @@ This project is also built with the same CSS obfuscation library
 
 ## 📄 License
 
-License - Free to use in personal and commercial projects
+License - **Free** to use in personal and commercial projects
 
 ---
