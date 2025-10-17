@@ -39,7 +39,7 @@ That's it! The library will automatically load all required dependencies.
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CSS Protector - No Domain Lock</title>
-    <script src="https://cdn.jsdelivr.net/gh/worm0x1/css-obfuscation/css-protector7.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/worm0x1/CSSGuard/CSSGuard.js"></script>
     <style>
         body { font-family: Arial; padding: 20px; background: #f5f5f5; }
         textarea { width: 100%; height: 150px; padding: 10px; margin: 10px 0; font-family: monospace; }
@@ -74,7 +74,7 @@ That's it! The library will automatically load all required dependencies.
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CSS Protector - Domain Lock</title>
-    <script src="https://cdn.jsdelivr.net/gh/worm0x1/css-obfuscation/css-protector7.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/worm0x1/CSSGuard/CSSGuard.js"></script>
     <style>
         body { font-family: Arial; padding: 20px; background: #f5f5f5; }
         input, textarea { width: 100%; padding: 10px; margin: 10px 0; font-family: monospace; }
