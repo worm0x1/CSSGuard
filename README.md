@@ -1,4 +1,4 @@
-# 🔒 CSSGuard
+# 🧩 CSSGuard
 
 A powerful, **semi-open source** JavaScript library that **protects** and **obfuscates** your CSS from theft and inspection.
 
