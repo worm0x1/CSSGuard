@@ -13,7 +13,7 @@ A powerful, **semi-open source** JavaScript library that **protects** and **obfu
 - ⚡ **Auto Minification** - Automatically minifies CSS before encryption
 - 🎯 **Easy Integration** - Simple API, just one function call
 - 📦 **No Dependencies** - Works standalone (dynamically loads obfuscator)
-- 🧠 Obfuscation up to 1 MB
+- 🧠 **Obfuscation up to 1 MB**
 
 ---
 
