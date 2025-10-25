@@ -1,6 +1,6 @@
 # 🧩 CSSGuard
 
-A powerful, **semi-open source** JavaScript library that **protects** and **obfuscates** your CSS from theft and inspection.
+A powerful, **semi-open source** JavaScript library that **protects** and **obfuscates** your CSS from theft and inspection.We first apply our raw **CSS-hiding** method to fully conceal the stylesheet, and then encode the result using the obfuscator.io library.
 
 ---
 
